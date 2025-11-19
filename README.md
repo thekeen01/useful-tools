@@ -6,6 +6,8 @@ a list of various tools
 
 simp (simpler linpeas): https://github.com/thekeen01/simp
 
+CVE build (docker to build a linux CVE for a specific kernel version): https://github.com/thekeen01/docker-cve-build
+
 # windows
 
 Invoke-BadSuccessor.ps1 (tool to exploit badsuccessor for windows 2025 servers) : https://github.com/b5null/Invoke-BadSuccessor.ps1
