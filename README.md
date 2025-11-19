@@ -14,6 +14,8 @@ Invoke-BadSuccessor.ps1 (tool to exploit badsuccessor for windows 2025 servers) 
 
 Get-MsiBasic.ps1 (a tool to list retrieve microsoft installer file infor) : https://github.com/b5null/Get-MsiBasic.ps1
 
+htb_devbox (Generates a small Windows Box (Puppy) via TheKeen's htbcli for debugging and developing applications (Will need to install the needed apps)) : https://github.com/b5null/htb_devbox
+
 # misc
 
 htbli (simple cli to play seasonal HTB boxes): https://github.com/thekeen01/htbcli
