@@ -16,6 +16,8 @@ Get-MsiBasic.ps1 (a tool to list retrieve microsoft installer file infor) : http
 
 htb_devbox (Generates a small Windows Box (Puppy) via TheKeen's htbcli for debugging and developing applications (Will need to install the needed apps)) : https://github.com/b5null/htb_devbox
 
+Reflective Loaded version of the Rubeus : https://github.com/b5null/Invoke-RubeusPR
+
 # misc
 
 htbli (simple cli to play seasonal HTB boxes): https://github.com/thekeen01/htbcli
