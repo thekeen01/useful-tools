@@ -18,6 +18,8 @@ htb_devbox (Generates a small Windows Box (Puppy) via TheKeen's htbcli for debug
 
 Reflective Loaded version of the Rubeus : https://github.com/b5null/Invoke-RubeusPR
 
+NTLM theft : https://github.com/Greenwolf/ntlm_theft
+
 # misc
 
 htbli (simple cli to play seasonal HTB boxes): https://github.com/thekeen01/htbcli
