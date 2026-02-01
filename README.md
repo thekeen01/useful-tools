@@ -25,3 +25,5 @@ NTLM theft : https://github.com/Greenwolf/ntlm_theft
 htbli (simple cli to play seasonal HTB boxes): https://github.com/thekeen01/htbcli
 
 kali-docker (run kali in a docker): https://github.com/thekeen01/kali-docker
+
+Shellcode packer : https://github.com/Nariod/RustPacker
