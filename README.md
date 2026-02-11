@@ -20,6 +20,8 @@ Reflective Loaded version of the Rubeus : https://github.com/b5null/Invoke-Rubeu
 
 NTLM theft : https://github.com/Greenwolf/ntlm_theft
 
+Revshell that bypasses AMSI: https://github.com/gunzf0x/BypassAMSI_PSRevshell
+
 # misc
 
 htbli (simple cli to play seasonal HTB boxes): https://github.com/thekeen01/htbcli
