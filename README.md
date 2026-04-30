@@ -8,6 +8,8 @@ simp (simpler linpeas): https://github.com/thekeen01/simp
 
 CVE build (docker to build a linux CVE for a specific kernel version): https://github.com/thekeen01/docker-cve-build
 
+size optimized CVE-2024-31431:  https://github.com/Crihexe/copy-fail-tiny-elf-CVE-2026-31431
+
 # windows
 
 Invoke-BadSuccessor.ps1 (tool to exploit badsuccessor for windows 2025 servers) : https://github.com/b5null/Invoke-BadSuccessor.ps1
