@@ -9,7 +9,9 @@ simp (simpler linpeas): https://github.com/thekeen01/simp
 CVE build (docker to build a linux CVE for a specific kernel version): https://github.com/thekeen01/docker-cve-build
 
 size optimized CVE-2026-31431:  https://github.com/Crihexe/copy-fail-tiny-elf-CVE-2026-31431
+
 CVE-2026-31431 for ARM64: https://github.com/pascal-gujer/CVE-2026-31431
+
 ~~c verion of CVE-2026-31431 for ARM64: https://github.com/huberteff/copy-fail-CVE-2026-31431/~~ doesn't work, keep an eye out
 
 # windows
