@@ -30,6 +30,8 @@ Revshell that bypasses AMSI: https://github.com/gunzf0x/BypassAMSI_PSRevshell
 
 automated CVE-2025-33073 (NTLM reflection): https://github.com/mverschu/CVE-2025-33073
 
+VMKatz (extract hashes from VM memory): https://github.com/nikaiw/VMkatz
+
 # misc
 
 htbli (simple cli to play seasonal HTB boxes): https://github.com/thekeen01/htbcli
