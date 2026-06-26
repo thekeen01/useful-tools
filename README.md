@@ -14,6 +14,8 @@ CVE-2026-31431 for ARM64: https://github.com/pascal-gujer/CVE-2026-31431
 
 ~~c verion of CVE-2026-31431 for ARM64: https://github.com/huberteff/copy-fail-CVE-2026-31431/~~ doesn't work, keep an eye out
 
+CVE-2026-46331 : https://github.com/sgkdev/packet_edit_meme
+
 # windows
 
 Invoke-BadSuccessor.ps1 (tool to exploit badsuccessor for windows 2025 servers) : https://github.com/b5null/Invoke-BadSuccessor.ps1
