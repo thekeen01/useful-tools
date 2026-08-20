@@ -16,6 +16,8 @@ CVE-2026-31431 for ARM64: https://github.com/pascal-gujer/CVE-2026-31431
 
 CVE-2026-46331 : https://github.com/sgkdev/packet_edit_meme
 
+musl library that uses memfd_secret for malloc: https://github.com/Whispergate/musl-malloc-secret
+
 # windows
 
 Invoke-BadSuccessor.ps1 (tool to exploit badsuccessor for windows 2025 servers) : https://github.com/b5null/Invoke-BadSuccessor.ps1
