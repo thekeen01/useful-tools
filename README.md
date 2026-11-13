@@ -36,6 +36,8 @@ automated CVE-2025-33073 (NTLM reflection): https://github.com/mverschu/CVE-2025
 
 VMKatz (extract hashes from VM memory): https://github.com/nikaiw/VMkatz
 
+homer - an updated version of donut: https://github.com/twili8/homer
+
 # misc
 
 htbli (simple cli to play seasonal HTB boxes): https://github.com/thekeen01/htbcli
